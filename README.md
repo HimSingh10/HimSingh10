@@ -48,12 +48,19 @@ Machine Learning | Deep Learning | Generative AI | Software Engineering
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimSingh10&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HimSingh10&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimSingh10&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimSingh10&layout=compact&theme=tokyonight" />
 </p>
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HimSingh10&theme=tokyo-night" />
 ---
 
 ## 🌐 Connect with Me

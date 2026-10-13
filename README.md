@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Himanshu Singh
 
-Third Year B.Tech Information Technology Student  
+Fourth Year B.Tech Information Technology Student  
 Machine Learning | Deep Learning | Generative AI | Software Engineering
 
 ---
